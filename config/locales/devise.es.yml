@@ -1,0 +1,13 @@
+es:
+  devise:
+    confirmations:
+      confirmed: Su dirección de correo electrónico se ha confirmado con éxito.
+    failure:
+      inactive: Su cuenta aún no está activada.
+      unconfirmed: Usted tiene que confirmar su dirección de correo electrónico antes de continuar.
+    sessions:
+      signed_in: Firmado en éxito.
+      signed_out: Firmado a cabo con éxito.
+  errors:
+    messages:
+      confirmation_period_expired: deben ser confirmadas dentro %{period}, por favor solicite uno nuevo
